@@ -6,37 +6,50 @@ METHOD:PUBLISH
 X-WR-CALNAME:Token2049 week: the events worth flying in for
 X-WR-TIMEZONE:Asia/Singapore
 BEGIN:VEVENT
-UID:t2049-afp-summit-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261006T023000Z
-DTEND:20261006T060000Z
-SUMMARY:Agentic Finance & Payments Summit (Reap × Payward × Visa)
-DESCRIPTION:Invite-only half-day summit on agentic payments and finance\, 8
- 0 to 150 executives across cards\, stablecoins and exchanges. Payward is K
- raken. Venue shared on approval. luma.com/gbn6o60s\n\nMagma Devs is in Sin
- gapore all week. Thirty minutes\, wherever you are: https://calendar.app.g
- oogle/ywoC5ALbNHp5U52Q9
+UID:t2049-kalshi-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261005T090000Z
+DTEND:20261005T133000Z
+SUMMARY:Kalshi & Haruko kickoff: More than a million
+DESCRIPTION:TOKEN2049 kickoff drinks with founders and investors who flew i
+ n early. Waitlist. luma.com/zsgdwcee\n\nMagma Devs is in Singapore all wee
+ k. Thirty minutes\, wherever you are: https://calendar.app.google/ywoC5ALb
+ NHp5U52Q9
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-above-the-bay-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261006T100000Z
-DTEND:20261006T130000Z
-SUMMARY:Above the Bay: Backing the Next Trillion (Flare\, Firelight\, Hyper
- native\, Cloudflare)
-DESCRIPTION:Infrastructure-resilience evening co-hosted by Hypernative. Pri
- vate\, capacity limited. luma.com/sybtczzh\n\nMagma Devs is in Singapore a
- ll week. Thirty minutes\, wherever you are: https://calendar.app.google/yw
- oC5ALbNHp5U52Q9
-LOCATION:SKAI\, Swissôtel The Stamford\, 2 Stamford Rd\, Singapore 178882
+UID:t2049-afp-summit-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261006T020000Z
+DTEND:20261006T060000Z
+SUMMARY:Agentic Finance & Payments Summit (Reap × Payward × Visa)
+DESCRIPTION:Invite-only half-day summit\, 80 to 150 executives across cards
+ \, stablecoins and exchanges. Payward is Kraken. Venue shared on approval.
+  luma.com/gbn6o60s\n\nMagma Devs is in Singapore all week. Thirty minutes\
+ , wherever you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:t2049-wc-pulse-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261006T030000Z
+DTEND:20261006T060000Z
+SUMMARY:WalletConnect Pulse (Turnkey\, Canton\, ChangeNOW\, OpenFX\, SoSoVa
+ lue)
+DESCRIPTION:Fintech and TradFi networking with the WalletConnect Pulse podc
+ ast recorded live. luma.com/partnerbrunch_tokensg\n\nMagma Devs is in Sing
+ apore all week. Thirty minutes\, wherever you are: https://calendar.app.go
+ ogle/ywoC5ALbNHp5U52Q9
+LOCATION:Sospiri\, IOI Central Boulevard Towers\, 2 Central Blvd #07-02\, S
+ ingapore 018916
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:t2049-onchain-lounge-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
+DTSTAMP:20260928T140000Z
 DTSTART:20261006T104500Z
 DTEND:20261006T140000Z
 SUMMARY:The Onchain Lounge (Utila\, Blockaid\, BNY\, Anchorage Digital\, Op
@@ -50,62 +63,94 @@ URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-institutional-ark-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261006T120000Z
-DTEND:20261006T150000Z
-SUMMARY:The Institutional Ark (ChainUp)
-DESCRIPTION:Invite-only. If you sell to institutions\, this is the room.\n\
- nMagma Devs is in Singapore all week. Thirty minutes\, wherever you are: h
- ttps://calendar.app.google/ywoC5ALbNHp5U52Q9
-LOCATION:Monti at 1-Pavilion\, 82 Collyer Quay\, Singapore 049327
-URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:t2049-t2049-day1-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
+DTSTAMP:20260928T140000Z
 DTSTART:20261007T010000Z
 DTEND:20261007T100000Z
 SUMMARY:TOKEN2049 Singapore\, day one
-DESCRIPTION:Roads around Marina Centre and the Padang are closed for the Gr
- and Prix from midnight on 7 Oct: add half an hour to any taxi\, or take th
- e train to Bayfront and walk in.\n\nMagma Devs is in Singapore all week. T
- hirty minutes\, wherever you are: https://calendar.app.google/ywoC5ALbNHp5
- U52Q9
+DESCRIPTION:Main stage: Balaji 09:10\, Polymarket's Shayne Coplan 09:30\, D
+ eFi's Institutional Breakthrough (Aave\, Ethena\, Infinex) 10:20\, Hyperli
+ quid's Jeff Yan 11:00\, Arthur Hayes 11:35\, Raoul Pal 12:00\, The Zcash M
+ oment with the Winklevoss twins 15:00. Roads around the bay are closed for
+  the Grand Prix from midnight: add half an hour to any taxi\, or take the 
+ train to Bayfront.\n\nMagma Devs is in Singapore all week. Thirty minutes\
+ , wherever you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
 LOCATION:Marina Bay Sands Expo & Convention Centre\, 10 Bayfront Ave\, Sing
  apore 018956
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-bitgo-hashkey-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261007T100000Z
-DTEND:20261007T130000Z
-SUMMARY:BitGo × HashKey × UstarPay networking
-DESCRIPTION:Venue shared on approval. luma.com/qjgwthvg\n\nMagma Devs is in
-  Singapore all week. Thirty minutes\, wherever you are: https://calendar.a
- pp.google/ywoC5ALbNHp5U52Q9
+UID:t2049-das-asia-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261007T010000Z
+DTEND:20261007T090000Z
+SUMMARY:DAS Asia (Blockworks Digital Asset Summit)
+DESCRIPTION:Same building as Token2049. 09:10 BitGo's Mike Belshe\, 09:30 K
+ raken's Arjun Sethi\, 10:10 BlackRock\, Nasdaq\, Citi and Talos\, 11:00 Fi
+ delity's Cynthia Lo Bessette\, 13:30 Hyperliquid's Jeff Yan\, 14:00 PayPal
+  and Coinbase Institutional\, 14:30 Dune\, Bitwise and DBS\, Morgan Stanle
+ y and Backpack. luma.com/dasasia2026\n\nMagma Devs is in Singapore all wee
+ k. Thirty minutes\, wherever you are: https://calendar.app.google/ywoC5ALb
+ NHp5U52Q9
+LOCATION:Marina Bay Sands Expo & Convention Centre\, 10 Bayfront Ave\, Sing
+ apore 018956
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-singapore-sips-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261007T110000Z
-DTEND:20261007T140000Z
-SUMMARY:Singapore Sips (Quantstamp\, Common Defense\, Hypernative\, Lukka\,
-  Cloudflare)
-DESCRIPTION:Private event\, approved QR code required. Venue shared on appr
- oval. luma.com/lj8vcxk7\n\nMagma Devs is in Singapore all week. Thirty min
- utes\, wherever you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+UID:t2049-galaxy-brunch-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261007T013000Z
+DTEND:20261007T033000Z
+SUMMARY:Token Kickoff: Bayfront Brunch with Galaxy and Rialo
+DESCRIPTION:Private networking brunch. Venue shared on approval. luma.com/a
+ pmey444\n\nMagma Devs is in Singapore all week. Thirty minutes\, wherever 
+ you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:t2049-inst-stack-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261007T033000Z
+DTEND:20261007T063000Z
+SUMMARY:The Institutional Stack: VIP lunch (Chainalysis\, Definitive\, Util
+ a)
+DESCRIPTION:Invitation-only executive lunch. Venue shared on approval. luma
+ .com/v3fntqy3\n\nMagma Devs is in Singapore all week. Thirty minutes\, whe
+ rever you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:t2049-zero-cutoff-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261007T103000Z
+DTEND:20261007T133000Z
+SUMMARY:Zero Cutoff (SoFi × Galaxy)
+DESCRIPTION:Networking reception. Venue shared on approval. luma.com/zerocu
+ toff26\n\nMagma Devs is in Singapore all week. Thirty minutes\, wherever y
+ ou are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:t2049-stablecoin-social-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261007T103000Z
+DTEND:20261007T133000Z
+SUMMARY:Bitcoin & Stablecoin Social (Utila\, Chainalysis\, Lukka)
+DESCRIPTION:Drinks overlooking Marina Bay with fintechs\, PSPs and banks. V
+ enue shared on approval. luma.com/stablecoin-social\n\nMagma Devs is in Si
+ ngapore all week. Thirty minutes\, wherever you are: https://calendar.app.
+ google/ywoC5ALbNHp5U52Q9
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:t2049-kraken-after-dark-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
+DTSTAMP:20260928T140000Z
 DTSTART:20261007T120000Z
 DTEND:20261007T180000Z
 SUMMARY:Kraken Pro After Dark
@@ -118,74 +163,69 @@ URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-onchain-horizons-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261008T000000Z
-DTEND:20261008T020000Z
-SUMMARY:On-Chain Horizons: Founders × Funders (SC Ventures\, Zodia Custody
- \, Zodia Markets\, Libeara)
-DESCRIPTION:Private breakfast\, limited capacity. luma.com/ixmrhvtm\n\nMagm
- a Devs is in Singapore all week. Thirty minutes\, wherever you are: https:
- //calendar.app.google/ywoC5ALbNHp5U52Q9
-LOCATION:WeWork\, 21 Collyer Quay\, 18th floor\, Singapore 049320
-URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:t2049-t2049-day2-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
+DTSTAMP:20260928T140000Z
 DTSTART:20261008T010000Z
 DTEND:20261008T100000Z
 SUMMARY:TOKEN2049 Singapore\, day two
-DESCRIPTION:Day two is thinner and better. Take the meetings you could not 
- get on day one.\n\nMagma Devs is in Singapore all week. Thirty minutes\, w
- herever you are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+DESCRIPTION:The institutional line-up: Nasdaq's Adena Friedman\, Franklin T
+ empleton's Jenny Johnson\, Fundstrat's Tom Lee\, Binance's Richard Teng an
+ d OKX's Star Xu are on this week's programme\; check the agenda for the sl
+ ot.\n\nMagma Devs is in Singapore all week. Thirty minutes\, wherever you 
+ are: https://calendar.app.google/ywoC5ALbNHp5U52Q9
 LOCATION:Marina Bay Sands Expo & Convention Centre\, 10 Bayfront Ave\, Sing
  apore 018956
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-agentic-finance-summit-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261008T060000Z
-DTEND:20261008T120000Z
-SUMMARY:Agentic Finance Summit + The Odds: Prediction Markets Live (eToro\,
-  Alpaca\, Mira)
-DESCRIPTION:400 curated attendees. luma.com/8oxs8lco\n\nMagma Devs is in Si
- ngapore all week. Thirty minutes\, wherever you are: https://calendar.app.
- google/ywoC5ALbNHp5U52Q9
-LOCATION:Suntec Singapore Convention & Exhibition Centre\, 1 Raffles Blvd\,
-  Singapore 039593
+UID:t2049-galaxy-arbitrum-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261008T020000Z
+DTEND:20261008T040000Z
+SUMMARY:The Pre-Weekend Pit Stop: Galaxy & Arbitrum VIP Brunch
+DESCRIPTION:Private brunch. Venue shared on approval. luma.com/umhny876\n\n
+ Magma Devs is in Singapore all week. Thirty minutes\, wherever you are: ht
+ tps://calendar.app.google/ywoC5ALbNHp5U52Q9
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-payments-apac-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
-DTSTART:20261008T060000Z
-DTEND:20261008T100000Z
-SUMMARY:The Next Generation of Payments in APAC (Sunrate\, Google Cloud\, O
- DIG)
-DESCRIPTION:Banks and payment leaders\; bilingual room. luma.com/jecn61cf\n
- \nMagma Devs is in Singapore all week. Thirty minutes\, wherever you are: 
- https://calendar.app.google/ywoC5ALbNHp5U52Q9
-LOCATION:Guoco Midtown Network Hub\, 126 Beach Rd\, Level 2\, Singapore 189
- 773
+UID:t2049-utila-luncheon-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261008T040000Z
+DTEND:20261008T070000Z
+SUMMARY:Token2049 Networking Luncheon (Utila\, Caladan)
+DESCRIPTION:Private B2B lunch\, 110 guests by approval. The best lunch view
+  of the bay. luma.com/3eecwhrw\n\nMagma Devs is in Singapore all week. Thi
+ rty minutes\, wherever you are: https://calendar.app.google/ywoC5ALbNHp5U5
+ 2Q9
+LOCATION:Caffè Fernet\, 70 Collyer Quay\, #01-05 Customs House\, Singapore
+  049323
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:t2049-finality-forum-2026@magmadevs.com
-DTSTAMP:20260927T130000Z
+UID:t2049-galaxy-axis-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
+DTSTART:20261008T063000Z
+DTEND:20261008T083000Z
+SUMMARY:An Afternoon Affair (Galaxy & Axis)
+DESCRIPTION:Sweets and partners. Venue shared on approval. luma.com/szxy1u8
+ o\n\nMagma Devs is in Singapore all week. Thirty minutes\, wherever you ar
+ e: https://calendar.app.google/ywoC5ALbNHp5U52Q9
+URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:t2049-mantle-rwa-2026@magmadevs.com
+DTSTAMP:20260928T140000Z
 DTSTART:20261009T020000Z
 DTEND:20261009T100000Z
-SUMMARY:Finality Forum (Kraken\, BitGo\, Paxos\, Nansen\, FalconX\, Gemini 
- on stage)
-DESCRIPTION:Full-day institutional digital-assets conference\, 300 seats\, 
- screened. Venue shared on approval. luma.com/g2lg0htf\n\nMagma Devs is in 
- Singapore all week. Thirty minutes\, wherever you are: https://calendar.ap
- p.google/ywoC5ALbNHp5U52Q9
+SUMMARY:Mantle RWA Day (Token2049 SG edition)\, optional
+DESCRIPTION:For whoever stays Friday. luma.com/mantle-2pek\n\nMagma Devs is
+  in Singapore all week. Thirty minutes\, wherever you are: https://calenda
+ r.app.google/ywoC5ALbNHp5U52Q9
 URL:https://calendar.app.google/ywoC5ALbNHp5U52Q9
 TRANSP:OPAQUE
 END:VEVENT
